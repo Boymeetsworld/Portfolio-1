@@ -1,0 +1,51 @@
+body {
+    background: HSL(145, 63%, 27%);
+    padding: 25px;
+    font-family: sans-serif;
+    cursor: url('path-to-image.png'), auto;	
+  }
+  
+  h1 {
+    color:HSL(48, 89%, 95%);
+    font-family: Palatino, 'Palatino Linotype', serif;
+  }
+  
+  p {
+    font-family: Palatino, 'Palatino Linotype', serif;
+    font-size:34px;
+    color:HSL(48, 89%, 95%);
+  }
+  
+  a {
+    color:HSL(48, 89%, 95%);
+  }
+  
+  li{
+    color:HSL(48, 89%, 95%);
+    border-radius: 100px;
+    border: 2px solid HSL(48, 89%, 95%);
+    font-family: Palatino, 
+    'Palatino Linotype', serif;
+    display:inline;
+    padding: 8px 24px 9px 24px;
+    
+  }
+  
+  .header {
+    overflow: visible;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+  }
+  
+  .rounded{
+    width: 30px;
+    height: 30px;
+    border: 2px solid HSL(48, 89%, 95%);
+    border-radius: 50%;
+    
+  }
+
+  #vocal{
+    width: 30px;
+    height: 30px;
+  }
